@@ -1,0 +1,10 @@
+{
+    "name": "jneto/logger",
+    "description": "Simple PHP Logger Class",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Logger\\": "src/classes/Logger"
+        }
+    }
+}
